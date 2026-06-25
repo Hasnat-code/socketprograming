@@ -1,10 +1,10 @@
-# demo
+# SocketPrograming
 
-A simple Java project repository.
+A simple Java repository that show how socket programing work in computer networking
 
 ## Overview
 
-This repository contains Java source code for the "demo" project. It is a small example project intended to demonstrate basic Java structure, build, and run instructions.
+This repository contains Java source code for the "socket programing" project. It is a small example project intended to demonstrate basic client and server talk.
 
 ## Requirements
 
@@ -41,9 +41,7 @@ If the project uses Gradle:
 
 Contributions are welcome. Please open issues or pull requests with clear descriptions of changes.
 
-## License
 
-Add a license file to this repository (e.g., LICENSE) to indicate the project's license.
 
 ## Contact
 
